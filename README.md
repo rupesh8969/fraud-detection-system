@@ -21,9 +21,12 @@
 <br/>
 <b>A comprehensive fraud detection platform combining machine learning, real-time analytics, and interactive visualizations.</b>
 <br/><br/>
+
+### 🚀 [**Live Demo**](https://fraud-detection-navy-two.vercel.app/)
+
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square"/>
-<img src="https://img.shields.io/github/issues/yourusername/fraud-detection?style=flat-square"/>
+<img src="https://img.shields.io/github/issues/rupesh8969/fraud-detection-system?style=flat-square"/>
 </div>
 
 ---
